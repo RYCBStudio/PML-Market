@@ -1,0 +1,8 @@
+{
+    "Name": "MySQL数据库",
+    "Description": "提供MySQL数据库的相关支持",
+    "Id": "MySql.Data",
+    "Version": "9.4.0",
+    "Type": ["Dependency", "Database"],
+    "Author": "Oracle"
+}
